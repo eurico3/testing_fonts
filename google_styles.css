@@ -1,0 +1,110 @@
+body {
+    background-color: #2e2e2e; /* Dark Grey (ChatGPT background) */
+    color: #bdbdbd; /* Light Grey (ChatGPT text color) */
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+}
+/* Apply unique Google Fonts to each H1 element */
+.font-1 { font-family: 'Roboto', sans-serif; }
+.font-2 { font-family: 'Lobster', cursive; }
+.font-3 { font-family: 'Montserrat', sans-serif; }
+.font-4 { font-family: 'Open Sans', sans-serif; }
+.font-5 { font-family: 'Poppins', sans-serif; }
+.font-6 { font-family: 'Raleway', sans-serif; }
+.font-7 { font-family: 'Playfair Display', serif; }
+.font-8 { font-family: 'Oswald', sans-serif; }
+.font-9 { font-family: 'Merriweather', serif; }
+.font-10 { font-family: 'Quicksand', sans-serif; }
+.font-11 { font-family: 'Dancing Script', cursive; }
+.font-12 { font-family: 'Bebas Neue', sans-serif; }
+.font-13 { font-family: 'Josefin Sans', sans-serif; }
+.font-14 { font-family: 'Pacifico', cursive; }
+.font-15 { font-family: 'Comfortaa', sans-serif; }
+.font-16 { font-family: 'Indie Flower', cursive; }
+.font-17 { font-family: 'Anton', sans-serif; }
+.font-18 { font-family: 'Fjalla One', sans-serif; }
+.font-19 { font-family: 'Permanent Marker', cursive; }
+.font-20 { font-family: 'Archivo Black', sans-serif; }
+.font-21 { font-family: 'Caveat', cursive; }
+.font-22 { font-family: 'Great Vibes', cursive; }
+.font-23 { font-family: 'Russo One', sans-serif; }
+.font-24 { font-family: 'Sacramento', cursive; }
+.font-25 { font-family: 'Kaushan Script', cursive; }
+.font-26 { font-family: 'Exo', sans-serif; }
+.font-27 { font-family: 'Courgette', cursive; }
+.font-28 { font-family: 'Titillium Web', sans-serif; }
+.font-29 { font-family: 'Amatic SC', cursive; }
+.font-30 { font-family: 'Bangers', cursive; }
+.font-31 { font-family: 'Zilla Slab', serif; }
+.font-32 { font-family: 'Ultra', serif; }
+.font-33 { font-family: 'Baloo 2', sans-serif; }
+.font-34 { font-family: 'Barlow', sans-serif; }
+.font-35 { font-family: 'Fredericka the Great', cursive; }
+.font-36 { font-family: 'Gloria Hallelujah', cursive; }
+.font-37 { font-family: 'Kanit', sans-serif; }
+.font-38 { font-family: 'Lora', serif; }
+.font-39 { font-family: 'Manrope', sans-serif; }
+.font-40 { font-family: 'Orbitron', sans-serif; }
+.font-41 { font-family: 'Questrial', sans-serif; }
+.font-42 { font-family: 'Rajdhani', sans-serif; }
+.font-43 { font-family: 'Rubik', sans-serif; }
+.font-44 { font-family: 'Shadows Into Light', cursive; }
+.font-45 { font-family: 'Source Sans Pro', sans-serif; }
+.font-46 { font-family: 'Yanone Kaffeesatz', sans-serif; }
+.font-47 { font-family: 'Crimson Text', serif; }
+.font-48 { font-family: 'Abel', sans-serif; }
+.font-49 { font-family: 'Arvo', serif; }
+.font-50 { font-family: 'Cabin', sans-serif; }
+.font-51 { font-family: 'Chivo', sans-serif; }
+.font-52 { font-family: 'Do Hyeon', sans-serif; }
+.font-53 { font-family: 'El Messiri', sans-serif; }
+.font-54 { font-family: 'Encode Sans', sans-serif; }
+.font-55 { font-family: 'Hind', sans-serif; }
+.font-56 { font-family: 'IBM Plex Sans', sans-serif; }
+.font-57 { font-family: 'Julius Sans One', sans-serif; }
+.font-58 { font-family: 'Kosugi Maru', sans-serif; }
+.font-59 { font-family: 'Lexend', sans-serif; }
+.font-60 { font-family: 'Marck Script', cursive; }
+.font-61 { font-family: 'Nanum Gothic', sans-serif; }
+.font-62 { font-family: 'Noto Sans', sans-serif; }
+.font-63 { font-family: 'Oxygen', sans-serif; }
+.font-64 { font-family: 'Philosopher', sans-serif; }
+.font-65 { font-family: 'Play', sans-serif; }
+.font-66 { font-family: 'Public Sans', sans-serif; }
+.font-67 { font-family: 'Quattrocento', serif; }
+.font-68 { font-family: 'Rambla', sans-serif; }
+.font-69 { font-family: 'Rokkitt', serif; }
+.font-70 { font-family: 'Signika', sans-serif; }
+.font-71 { font-family: 'Slabo 27px', serif; }
+.font-72 { font-family: 'Spectral', serif; }
+.font-73 { font-family: 'Syne', sans-serif; }
+.font-74 { font-family: 'Varela Round', sans-serif; }
+.font-75 { font-family: 'Work Sans', sans-serif; }
+.font-76 { font-family: 'Yeseva One', serif; }
+.font-77 { font-family: 'Prata', serif; }
+.font-78 { font-family: 'Alata', sans-serif; }
+.font-79 { font-family: 'Asap', sans-serif; }
+.font-80 { font-family: 'Bitter', serif; }
+.font-81 { font-family: 'Dosis', sans-serif; }
+.font-82 { font-family: 'Fira Sans', sans-serif; }
+.font-83 { font-family: 'Gelasio', serif; }
+.font-84 { font-family: 'Inter', sans-serif; }
+.font-85 { font-family: 'Kalam', cursive; }
+.font-86 { font-family: 'Lusitana', serif; }
+.font-87 { font-family: 'Mada', sans-serif; }
+.font-88 { font-family: 'Neuton', serif; }
+.font-89 { font-family: 'Overpass', sans-serif; }
+.font-90 { font-family: 'PT Serif', serif; }
+.font-91 { font-family: 'Quintessential', cursive; }
+.font-92 { font-family: 'Saira', sans-serif; }
+.font-93 { font-family: 'Teko', sans-serif; }
+.font-94 { font-family: 'Ubuntu', sans-serif; }
+.font-95 { font-family: 'Vollkorn', serif; }
+.font-96 { font-family: 'Yantramanav', sans-serif; }
+.font-97 { font-family: 'ZCOOL XiaoWei', serif; }
+.font-98 { font-family: 'Mitr', sans-serif; }
+.font-99 { font-family: 'Arima Madurai', cursive; }
+.font-100 { font-family: 'Notable', sans-serif; }
+
+
